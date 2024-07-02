@@ -1,0 +1,6 @@
+[submodule "BIT.TRIP/bin/QBC"]
+	path = BIT.TRIP/bin/QBC
+	url = https://github.com/donnaken15/NodeQBC
+[submodule "RedSP/bin/QBC"]
+	path = RedSP/bin/QBC
+	url = https://github.com/donnaken15/NodeQBC

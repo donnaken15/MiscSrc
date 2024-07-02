@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.q	text
+# :/
+*.qb	binary
+*.xen	binary
+*.dbg.xen text
+*.dbg	text
