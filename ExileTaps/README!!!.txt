@@ -1,0 +1,1 @@
+For some reason (as of now), sustain textures must be saved as DDS, otherwise the game will crash.
