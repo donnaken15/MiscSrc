@@ -1,0 +1,3 @@
+[submodule "bin/NodeQBC"]
+	path = bin/NodeQBC
+	url = https://github.com/donnaken15/NodeQBC

@@ -4,3 +4,12 @@
 [submodule "RedSP/bin/QBC"]
 	path = RedSP/bin/QBC
 	url = https://github.com/donnaken15/NodeQBC
+[submodule "AnemiaPwns/bin/QBC"]
+	path = AnemiaPwns/bin/QBC
+	url = https://github.com/donnaken15/NodeQBC
+[submodule "DarkBlue/bin/QBC"]
+	path = DarkBlue/bin/QBC
+	url = https://github.com/donnaken15/NodeQBC
+[submodule "Fire/bin/QBC"]
+	path = Fire/bin/QBC
+	url = https://github.com/donnaken15/NodeQBC
