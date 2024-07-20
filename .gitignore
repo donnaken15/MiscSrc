@@ -1,3 +1,5 @@
 \!*
 *.xen
 global*.pa*
+update.bat
+*.lnk
